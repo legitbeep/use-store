@@ -22,7 +22,7 @@ class EventEmitter {
   }
 }
 
-export default createStore = (initialState = {}) => {
+const createStore = (initialState = {}) => {
   const eventEmitter = new EventEmitter();
 
   return (key) => {
@@ -48,3 +48,5 @@ export default createStore = (initialState = {}) => {
     ];
   };
 };
+
+export default createStore;
