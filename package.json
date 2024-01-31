@@ -1,0 +1,25 @@
+{
+  "name": "use-store",
+  "version": "1.0.0",
+  "description": "Mini library to generate a hook to manage app state",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/legitbeep/use-store.git"
+  },
+  "keywords": [
+    "store"
+  ],
+  "author": "legitbeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/legitbeep/use-store/issues"
+  },
+  "homepage": "https://github.com/legitbeep/use-store#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
