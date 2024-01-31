@@ -1,5 +1,5 @@
 {
-  "name": "use-store",
+  "name": "use-mini-store",
   "version": "1.0.0",
   "description": "Mini library to generate a hook to manage app state",
   "main": "index.js",
@@ -19,7 +19,8 @@
     "url": "https://github.com/legitbeep/use-store/issues"
   },
   "homepage": "https://github.com/legitbeep/use-store#readme",
-  "dependencies": {
-    "react": "^18.2.0"
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0",
+    "react-dom": "^17.0.0 || ^18.0.0"
   }
 }
