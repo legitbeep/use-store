@@ -11,7 +11,11 @@
     "url": "git+https://github.com/legitbeep/use-store.git"
   },
   "keywords": [
-    "store"
+    "store",
+    "state management",
+    "react",
+    "react hook",
+    "use store"
   ],
   "author": "legitbeep",
   "license": "ISC",
