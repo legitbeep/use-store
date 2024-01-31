@@ -1,6 +1,6 @@
 {
   "name": "use-mini-store",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mini library to generate a hook to manage app state",
   "main": "index.js",
   "scripts": {
